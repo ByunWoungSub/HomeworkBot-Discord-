@@ -3,4 +3,4 @@
 
 Lang : Python
 Used Library - Web Crawling : Selenium(Headless) + BeautifulSoup4 
-           \n- Discord
+           - Discord
