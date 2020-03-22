@@ -70,7 +70,7 @@ crawling()
 
 #discord bot
 client = discord.Client()
-token = 'Njg1MDEzMTQzOTQ4MDk5NTkz.XmCwhQ.RuXlqYuS7_nZ8u9aCaQNrhTsaIY'
+#token = 
 
 @client.event
 async def on_ready():
